@@ -5,11 +5,18 @@
 
 # About me
 
-* Passionate about the technology area, always in search of knowledge and new challenges.
-* I have been following and studying IT for more than 5 years and focusing on software development for 3 years.
-* I always try to be as flexible as possible in matters of tools, always trying to understand their potential and their weaknesses.
-* Working in web and mobile development, I study constantly to become the professional I dream of, always dedicating myself to the maximum to improve step by step, currently for the web I work with JavaScript, using Node, React and React Native, Typescript.
-* I also develop automation and Web Scraping using Python for its ease in this scenario.
+I am a DevOps Engineer with around 5 years of experience. I specialize in designing and implementing secure, scalable, and cost-efficient cloud solutions. My technical expertise spans a wide range of platforms, frameworks, and tools, enabling the delivery of reliable and optimized systems.
+
+- Cloud Platforms & Orchestration: AWS, AWS ECS, EKS, Elastic Beanstalk, Kubernetes, Helm, Serverless architecture
+- Backend Development & Programming: Node.js, Python, Golang
+- SQL Databases: MySQL, PostgreSQL
+- NoSQL Databases: MongoDB, DynamoDB
+- Infrastructure as Code (IaC): Terraform, AWS CloudFormation, Pulumi
+- CI/CD Pipelines: Jenkins, GitHub Actions,  AWS CodePipeline, ArgoCD, Argo Rollouts, AWS Code Deploy
+- Observability & Monitoring: Prometheus, Grafana, AWS CloudWatch, OpenTelemetry, Datadog
+- Security & Compliance: AWS WAF, IAM policies, Network and firewall configurations
+
+I ensure efficient workflows, faster delivery cycles, and robust system reliability by leveraging these technologies and adhering to DevOps best practices.
 
 
 # Github Stats
